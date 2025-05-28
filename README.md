@@ -108,7 +108,7 @@ int main()
         {5, 6, 7},
         {9, 10, 11}
     };
-    int rows = 3, cols = 4;
+    int rows = 3, cols = 3;
     for (int i = 0; i < rows; i++)
     {
         int sum = 0;
